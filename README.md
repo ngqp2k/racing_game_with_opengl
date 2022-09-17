@@ -6,7 +6,9 @@
 - Use **_[freeglut](http://freeglut.sourceforge.net/)_** to manage windows, draw objects, ...
 ## Setup **_[freeglut](http://freeglut.sourceforge.net/)_**
 Download **_[freeglut](http://freeglut.sourceforge.net/)_** and extract:
+
 ![image](https://github.com/ngqp2k/racing_game_with_opengl/blob/main/image_readme/Picture13.png?raw=true)
+
 Then:
 - Copy all files in include folder to C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include
 - Copy all files in lib folder to C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib
